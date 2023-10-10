@@ -1,0 +1,20 @@
+body, img {
+    width: 1185px;
+}
+
+h1, p {
+    text-align: center;
+}
+
+h1 {
+    background-color: #0047BD;
+    color: white;
+    font-size: 30px;
+    padding: 10px 0px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 18px;
+}

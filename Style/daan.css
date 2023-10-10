@@ -1,0 +1,38 @@
+body {
+    width: 1185px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #cfdeff;
+    color: #000000;
+    padding: 10px 0px;
+    margin-top: 30px;
+}
+
+div {
+    float: left;
+    background-color: #e2ebff;
+    border-radius: 30px;
+    width: 340px;
+    height: 400px;
+    margin: 10px 25px 0px;
+    padding-top: 10px;
+    border: 2px #003060 dotted;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    background-color: white;
+    height: 280px;
+    margin: 30px 20px;
+    padding-top: 10px;
+    border-radius: 500px;
+}
+
+li {
+    line-height : 3;
+}
